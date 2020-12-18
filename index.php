@@ -15,7 +15,7 @@
 	</head>
 	<body>
 		<div id="home">
-		<h1 style="text-align:center;">BHUPAT Jangid SPORTS STORE</h1>
+		<h1 style="text-align:center;">Mr. BHUPAT Jangid SPORTS STORE</h1>
 		<ul>
 		<li><a href="insert1.php">Insert Item</a></li><br/>
 		<li><a href="view.php">View Shop Records</a></li><br/>
